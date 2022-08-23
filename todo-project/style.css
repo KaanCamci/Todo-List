@@ -1,0 +1,15 @@
+#head-part{
+    background-color: darkseagreen;
+    color: white;
+    border-radius: var(--bs-card-border-radius);
+}
+
+#a{
+    padding-left: 0px;
+    padding-right: 0px;
+    border: var(--bs-card-border-width) solid var(--bs-card-border-color);
+}
+
+#add-part{
+    padding-bottom: 0px;
+}
